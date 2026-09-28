@@ -16,3 +16,7 @@ class Solution {
         return ans;
     }
 }
+//Input: nums = [0,2,1,5,3,4]
+//Output: [0,1,2,4,5,3]
+// dry run 
+// new array ans[i]=nums
